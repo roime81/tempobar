@@ -1,0 +1,8 @@
+{
+  "name": "tempobar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d052a754"
+}
